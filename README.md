@@ -31,6 +31,6 @@
 
 <br />
 
-[website]: http://b-nair.com
+[website]: https://binair-dev.github.io
 [twitter]: https://twitter.com/BnairDev
 [linkedin]: https://www.linkedin.com/in/brian-van-bellinghen-9607291b9/
